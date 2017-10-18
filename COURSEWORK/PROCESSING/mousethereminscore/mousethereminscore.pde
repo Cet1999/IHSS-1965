@@ -22,14 +22,14 @@ void draw() {
   
   
   stroke(225,225,0);
+  
   strokeWeight(4);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
-  line(1407,0,1407,height);
+  line(1023,0,1023,height);
+  line(1315,0,1315,height);
+  line(1381,0,1381,height);
+  line(1223,0,1223,height);
+  line(1191,0,1191,height);
+  line(1100,0,1100,height);
   if (fif) {
     stroke(255, 128, 0);
     strokeWeight(3);
